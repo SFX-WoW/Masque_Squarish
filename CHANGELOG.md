@@ -1,4 +1,4 @@
-### Version 6.0.3.5
+### Version 6.0.3.5 (2014 Dec 18)
 
 * Updated for WoW 6.0
 
