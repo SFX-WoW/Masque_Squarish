@@ -1,0 +1,12 @@
+package-as: Masque_SimpleSquare
+
+manual-changelog:
+   filename: CHANGELOG.md
+   markup-type: markdown
+
+ignore:
+   - CHANGELOG.md
+   - README.md
+
+required-dependencies:
+   - masque
