@@ -1,7 +1,9 @@
 Masque_SimpleSquare
 ===================
 
-**EN** — Simple square skin for Masque.
+**EN** — Simple square skin for Masque.  
+**DE** — Einfacher quadratischer Skin für Masque.  
+**ES** — Diseño cuadrada simple para Masque.
 
 * [Download on WoWInterface](http://www.wowinterface.com/downloads/info9096-MasqueSimpleSquare.html)
 * [Download on Curse](http://wow.curse.com/addons/masque-simplesquare)
