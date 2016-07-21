@@ -21,7 +21,7 @@ Masque:AddSkin("SimpleSquare", {
 		Height = 44,
 	},
 	Normal = {
-		Texture = "Interface\\AddOns\\Masque_SimpleSquare\\Textures\\Border",
+		Texture = "Interface\\AddOns\\Masque_SimpleSquare\\Textures\\ModBorder",
 		Width = 44,
 		Height = 44,
 	},

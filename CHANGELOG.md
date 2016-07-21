@@ -1,3 +1,7 @@
+### Version 7.0.3.0 (2016 Jul 24)
+
+* Updated for WoW 7.0
+
 ### Version 6.1.0.6 (2015 Feb 26)
 
 * Updated for WoW 6.1
