@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 70100
 ## Version: @project-version@
 
 ## Title: Masque: SimpleSquare
@@ -9,7 +9,9 @@
 
 ## Author: Phanx, MoonWitch
 ## X-Credits: Original textures by ScythXIII
-## X-Website: https://github.com/Phanx/Masque_SimpleSquare
+## X-Website: https://github.com/phanx-wow/Masque_SimpleSquare
+## X-Project-ID: masque-simplesquare
+## X-WoWI-ID: 9096
 
 ## Dependencies: Masque
 

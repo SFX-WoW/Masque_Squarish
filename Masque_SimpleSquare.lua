@@ -3,9 +3,9 @@
 	Simple square skin for Masque.
 	by Phanx <addons@phanx.net>
 	Original textures by ScythXIII. Original port to ButtonFacade by MoonWitch.
-	https://github.com/Phanx/Masque_SimpleSquare
-	http://wow.curse.com/addons/masque-simplesquare
-	http://www.wowinterface.com/downloads/info9096-MasqueSimpleSquare.html
+	https://github.com/phanx-wow/Masque_SimpleSquare
+	https://mods.curse.com/addons/masque-simplesquare
+	https://www.wowinterface.com/downloads/info9096-MasqueSimpleSquare.html
 ]]
 
 local Masque = LibStub("Masque", true)
