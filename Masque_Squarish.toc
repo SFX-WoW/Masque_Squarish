@@ -1,19 +1,22 @@
-## Interface: 70100
+## Interface: 100002
+
+## Author: StormFX
+## Dependencies: Masque
+## Title: Masque: Squarish
 ## Version: @project-version@
 
-## Title: Masque: SimpleSquare
-## Notes: Simple square skin for Masque.
-## Notes-deDE: Einfacher quadratischer Skin für Masque.
-## Notes-esES: Diseño cuadrada simple para Masque.
-## Notes-esMX: Diseño cuadrada simple para Masque.
+## Notes: Squarish skins for Masque.
+## Notes-deDE: Squarish-Skin für Masque.
+## Notes-esMX: Skins Squarish para Masque.
+## Notes-esES: Skins Squarish para Masque.
+## Notes-frFR: Skins de Squarish pour Masque.
+## Notes-itIT: Skins Squarish per Masque.
+## Notes-ruRU: Скин Squarish для Masque.
+## Notes-zhTW: Masque的Squarish皮膚。
 
-## Author: Phanx, MoonWitch
-## X-Credits: Original textures by ScythXIII
+## X-Category: Interface Enhancements
+## X-Credits: Phanx, MoonWitch, ScythXIII
 ## X-Website: https://github.com/phanx-wow/Masque_SimpleSquare
-## X-Project-ID: masque-simplesquare
-## X-WoWI-ID: 9096
-
-## Dependencies: Masque
 
 # Locales
 Locales.lua
