@@ -15,4 +15,8 @@
 
 ## Dependencies: Masque
 
+# Locales
+Locales.lua
+
+# Skins
 Skins.lua
