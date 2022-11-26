@@ -15,4 +15,4 @@
 
 ## Dependencies: Masque
 
-Masque_SimpleSquare.lua
+Skins.lua
