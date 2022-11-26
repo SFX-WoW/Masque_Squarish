@@ -1,9 +1,19 @@
-package-as: Masque_SimpleSquare
+package-as: Masque_Squarish
+
+ignore:
+  - .github
+  - .gitattributes
+  - .gitignore
+  - .pkgmeta
+  - CHANGELOG.md
+  - LICENSE.txt
+  - README.md
 
 manual-changelog:
    filename: CHANGELOG.md
    markup-type: markdown
 
 required-dependencies:
-   - masque
+  - masque
 
+wowi-archive-previous: no
