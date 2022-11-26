@@ -1,0 +1,25 @@
+## Interface: 11403
+
+## Author: StormFX
+## Dependencies: Masque
+## Title: Masque: Squarish
+## Version: @project-version@
+
+## Notes: Squarish skins for Masque.
+## Notes-deDE: Squarish-Skin für Masque.
+## Notes-esMX: Skins Squarish para Masque.
+## Notes-esES: Skins Squarish para Masque.
+## Notes-frFR: Skins de Squarish pour Masque.
+## Notes-itIT: Skins Squarish per Masque.
+## Notes-ruRU: Скин Squarish для Masque.
+## Notes-zhTW: Masque的Squarish皮膚。
+
+## X-Category: Interface Enhancements
+## X-Credits: Phanx, MoonWitch, ScythXIII
+## X-Website: https://github.com/phanx-wow/Masque_SimpleSquare
+
+# Locales
+Locales.lua
+
+# Skins
+Skins.lua
