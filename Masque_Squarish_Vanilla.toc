@@ -16,6 +16,7 @@
 
 ## X-Category: Interface Enhancements
 ## X-Credits: Phanx, MoonWitch, ScythXIII
+## X-Discord: https://discord.gg/DDVqkd6
 ## X-Website: https://github.com/phanx-wow/Masque_SimpleSquare
 
 ## X-Curse-Project-ID: 714798
