@@ -1,10 +1,10 @@
 ## 10.0.0
 
-_**Important:** This is a continuation of Masque: SimpleSquare. Continued with permission, renamed out of necessity._
+_**Important:** This is a continuation of [Masque: SimpleSquare](https://github.com/phanx-wow/Masque_SimpleSquare). Continued with permission, renamed out of necessity._
 
 ### Release Notes
 
-- Added support for **Masque**'s latest API changes.
+- Added support for the lateset  **Masque** API changes.
 - Added _World of Warcraft Classic_ support.
 - Added _Wrath of the Lich King Classic_ support.
 - Updated the Interface version for _Retail_ to `100002`.
