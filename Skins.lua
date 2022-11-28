@@ -9,9 +9,9 @@
 	Squarish Skins
 
 	Credits:
-	"Masque: SimpleSquare" Port & "Thin" Variant by Phanx
-	"ButtonFacade: SimpleSquare" Port by Moonwitch
-	Original "cyCircled: SimpleSquare" Textures by ScythXIII
+	- "Masque: SimpleSquare" port & "Thin" variant by Phanx.
+	- "ButtonFacade: SimpleSquare" Port by Moonwitch.
+	- Original "cyCircled: SimpleSquare" skin by ScythXIII.
 ]]
 
 local MSQ = LibStub and LibStub("Masque", true)
@@ -37,7 +37,7 @@ local Websites = {
 	"https://github.com/SFX-WoW/Masque_Squarish",
 	"https://www.curseforge.com/wow/addons/masque-squarish",
 	"https://addons.wago.io/addons/masque-squarish",
-	--"https://www.wowinterface.com/downloads/info8869",
+	"https://www.wowinterface.com/downloads/info26494",
 }
 
 ----------------------------------------
