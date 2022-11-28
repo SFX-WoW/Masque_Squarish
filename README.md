@@ -5,6 +5,7 @@
 [![Twitter][SVG-Twitter]][Twitter]
 [![Sponsor][SVG-Sponsor]][Sponsor]
 [![PayPal][SVG-PayPal]][PayPal]
+[![Ko-fi][SVG-Kofi]][Kofi]
 
 ## [About][Top]
 
@@ -14,8 +15,8 @@
 
 This set includes the following skins:
 
-- **Squarish** - A port of the original _SimpleSquare_ skin for _cyCircled_.
-- **Squarish - Thin** - An alternate version of **Squarish** created by [Phanx](https://github.com/phanx-wow "Phanx's WoW Add-Ons").
+- **Squarish** - A port of the original [SimpleSquare] skin for _cyCircled_.
+- **Squarish - Thin** - An alternate version of **Squarish** created by [Phanx].
 
 ## [Requirements][Top]
 
@@ -31,9 +32,9 @@ Install the package through your preferred add-on manager or extract the archive
 
 ## [Credits][Top]
 
-- ScythXIII for the original _SimpleSquare_ skin for _cyCircled_.
-- [Moonwitch](https://www.curseforge.com/members/Forge_User_35441137 "Moonwitch @ CurseForge") for the port to _ButtonFacade_.
-- [Phanx](https://www.curseforge.com/members/phanxaddons "Phanx @ CurseForge") for the _Thin_ version and for [the port](https://github.com/phanx-wow/Masque_SimpleSquare "SimpleSquare @ GitHub") to [Masque].
+- [ScythXIII](https://www.wowinterface.com/forums/member.php?action=getinfo&userid=71237 "ScythXIII @ WoW Interface") for the original [SimpleSquare] skin for _cyCircled_.
+- [Moonwitch](https://www.wowinterface.com/forums/member.php?action=getinfo&userid=65557 "Moonwitch @ WoW Interface") for the port to _ButtonFacade_.
+- [Phanx] for the **Thin** version and for [the port](https://github.com/phanx-wow/Masque_SimpleSquare "SimpleSquare @ GitHub") to [Masque].
 
 ## [Feedback][Top]
 
@@ -41,7 +42,7 @@ For bug reports and suggestions, use the [issue tracker]. Direct any questions o
 
 ## [Localization][Top]
 
-To help translate this add-on, use the localization system on CurseForge. Alternatively, you can use the [issue tracker].
+To help translate this add-on, use the [localization system] on CurseForge. Alternatively, you can use the [issue tracker].
 
 ## [Links][Top]
 
@@ -49,11 +50,13 @@ To help translate this add-on, use the localization system on CurseForge. Altern
   - [Masque][Masque]
 - **Mirrors**
   - [GitHub]
-  <!--- [CurseForge]
+  - [CurseForge]
   - [Wago.io]
-  - [WoW Interface] -->
+  - [WoW Interface]
 
 [//]: # (Links)
+
+[Top]: #Top (Top of the Page)
 
 [Build]: https://github.com/SFX-WoW/Masque_Squarish/actions/workflows/build-release.yml (Build Status)
 [Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
@@ -61,18 +64,20 @@ To help translate this add-on, use the localization system on CurseForge. Altern
 [Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
 [Sponsor]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
 [PayPal]: https://www.paypal.com/donate/?hosted_button_id=EELAK9TC4W4KQ (Donate via PayPal)
+[Kofi]: https://ko-fi.com/StormFX (Donate via Ko-fi)
 
 [World of Warcraft]: https://worldofwarcraft.com (World of Warcraft)
 
+[Phanx]: https://github.com/phanx-wow (Phanx @ GitHub)
+[SimpleSquare]: https://www.wowinterface.com/downloads/info7893 (SimpleSquare for cyCircled)
+
 [Issue Tracker]: https://github.com/SFX-WoW/Masque_Squarish/issues (Report an Issue)
-<!--[Localization System]: https://www.curseforge.com/wow/addons/masque-squarish/localization (Translate on CurseForge)-->
+[Localization System]: https://www.curseforge.com/wow/addons/masque-squarish/localization (Translate on CurseForge)
 
 [GitHub]: https://github.com/SFX-WoW/Masque_Squarish (View on GitHub)
-<!--[CurseForge]: https://www.curseforge.com/wow/addons/masque-squarish (View on CurseForge)
+[CurseForge]: https://www.curseforge.com/wow/addons/masque-squarish (View on CurseForge)
 [Wago.io]: https://addons.wago.io/addons/masque-squarish (View on Wago.io)
-[WoW Interface]: https://www.wowinterface.com/downloads/info8869 (View on WoW Interface)-->
-
-[Top]: #Top (Top of the Page)
+[WoW Interface]: https://www.wowinterface.com/downloads/info8869 (View on WoW Interface)
 
 [//]: # (Images)
 
@@ -82,3 +87,4 @@ To help translate this add-on, use the localization system on CurseForge. Altern
 [SVG-Twitter]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/twitter.json
 [SVG-Sponsor]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/github-sponsor.json
 [SVG-PayPal]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/paypal.json
+[SVG-Kofi]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/kofi.json
