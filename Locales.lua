@@ -40,7 +40,7 @@ Core.Locale = setmetatable(L, {
 if Locale == "enGB" or Locale == "enUS" then
 	-- enUS/enGB for Reference
 	--L["A port of the original SimpleSquare skin for cyCircled."] = "A port of the original SimpleSquare skin for cyCircled."
-	--L["A thinner version of SimpleSquare created by Phanx."] = "A thinner version of SimpleSquare created by Phanx."
+	--L["A thinner version of Squarish."] = "A thinner version of Squarish."
 	return
 --elseif Locale == "deDE" then
 --elseif Locale == "esES" or Locale == "esMX" then
