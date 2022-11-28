@@ -16,9 +16,11 @@
 
 ## X-Category: Interface Enhancements
 ## X-Credits: Phanx, MoonWitch, ScythXIII
+## X-Website: https://github.com/phanx-wow/Masque_SimpleSquare
+
 ## X-Curse-Project-ID: 714798
 ## X-Wago-ID: yQKy8467
-## X-Website: https://github.com/phanx-wow/Masque_SimpleSquare
+## X-WoWI-ID: 26494
 
 # Locales
 Locales.lua
