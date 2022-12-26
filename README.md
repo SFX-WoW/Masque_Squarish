@@ -15,8 +15,8 @@
 
 This set includes the following skins:
 
-- **Squarish** - A port of the original [SimpleSquare] skin for _cyCircled_.
-- **Squarish - Thin** - An alternate version of **Squarish** created by [Phanx].
+- **Squarish** - A port of the original [SimpleSquare] skin for [cyCircled].
+- **Squarish Thin** - An alternate version of **Squarish** created by [Phanx].
 
 ## [Requirements][Top]
 
@@ -32,8 +32,8 @@ Install the package through your preferred add-on manager or extract the archive
 
 ## [Credits][Top]
 
-- [ScythXIII](https://www.wowinterface.com/forums/member.php?action=getinfo&userid=71237 "ScythXIII @ WoW Interface") for the original [SimpleSquare] skin for _cyCircled_.
-- [Moonwitch](https://www.wowinterface.com/forums/member.php?action=getinfo&userid=65557 "Moonwitch @ WoW Interface") for the port to _ButtonFacade_.
+- [ScythXIII](https://www.wowinterface.com/forums/member.php?action=getinfo&userid=71237 "ScythXIII @ WoW Interface") for the original [SimpleSquare] skin for [cyCircled].
+- [Moonwitch](https://www.wowinterface.com/forums/member.php?action=getinfo&userid=65557 "Moonwitch @ WoW Interface") for the port to ButtonFacade.
 - [Phanx] for the **Thin** version and for [the port](https://github.com/phanx-wow/Masque_SimpleSquare "SimpleSquare @ GitHub") to [Masque].
 
 ## [Feedback][Top]
@@ -68,8 +68,9 @@ To help translate this add-on, use the [localization system] on CurseForge. Alte
 
 [World of Warcraft]: https://worldofwarcraft.com (World of Warcraft)
 
-[Phanx]: https://github.com/phanx-wow (Phanx @ GitHub)
 [SimpleSquare]: https://www.wowinterface.com/downloads/info7893 (SimpleSquare for cyCircled)
+[cyCircled]: https://www.wowinterface.com/downloads/info6287 (cyCircled @ WoW Interface)
+[Phanx]: https://github.com/phanx-wow (Phanx @ GitHub)
 
 [Issue Tracker]: https://github.com/SFX-WoW/Masque_Squarish/issues (Report an Issue)
 [Localization System]: https://www.curseforge.com/wow/addons/masque-squarish/localization (Translate on CurseForge)
@@ -81,7 +82,7 @@ To help translate this add-on, use the [localization system] on CurseForge. Alte
 
 [//]: # (Images)
 
-[SVG-Build]: https://img.shields.io/github/workflow/status/SFX-WoW/Masque_Squarish/Build%20Release?label=Build&logo=github&logoColor=fff&style=flat-square
+[SVG-Build]: https://img.shields.io/github/actions/workflow/status/SFX-WoW/Masque_Squarish/build-release.yml?label=Build&logo=github&logoColor=fff&style=flat-square
 [SVG-Masque]: https://img.shields.io/endpoint?url=https://wow.stormfx.com/img/svg/masque-skin.json
 [SVG-Discord]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/discord.json
 [SVG-Twitter]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/twitter.json
