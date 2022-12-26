@@ -9,9 +9,9 @@
 
 ## [About][Top]
 
-**Masque: Squarish** is an add-on for [World of Warcraft] that adds a set of skins for [Masque].
+**Masque: Squarish** is an add-on for [World of Warcraft](https://worldofwarcraft.com "World of Warcraft") that adds a set of skins for [Masque].
 
-## [Skin][Top]
+## [Skins][Top]
 
 This set includes the following skins:
 
@@ -65,8 +65,6 @@ To help translate this add-on, use the [localization system] on CurseForge. Alte
 [Sponsor]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
 [PayPal]: https://www.paypal.com/donate/?hosted_button_id=EELAK9TC4W4KQ (Donate via PayPal)
 [Kofi]: https://ko-fi.com/StormFX (Donate via Ko-fi)
-
-[World of Warcraft]: https://worldofwarcraft.com (World of Warcraft)
 
 [SimpleSquare]: https://www.wowinterface.com/downloads/info7893 (SimpleSquare for cyCircled)
 [cyCircled]: https://www.wowinterface.com/downloads/info6287 (cyCircled @ WoW Interface)
