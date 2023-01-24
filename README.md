@@ -76,7 +76,7 @@ To help translate this add-on, use the [localization system] on CurseForge. Alte
 [GitHub]: https://github.com/SFX-WoW/Masque_Squarish (View on GitHub)
 [CurseForge]: https://www.curseforge.com/wow/addons/masque-squarish (View on CurseForge)
 [Wago.io]: https://addons.wago.io/addons/masque-squarish (View on Wago.io)
-[WoW Interface]: https://www.wowinterface.com/downloads/info8869 (View on WoW Interface)
+[WoW Interface]: https://www.wowinterface.com/downloads/info26494 (View on WoW Interface)
 
 [//]: # (Images)
 
