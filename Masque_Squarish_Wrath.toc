@@ -16,7 +16,7 @@
 
 ## X-Category: Interface Enhancements
 ## X-Credits: Phanx, MoonWitch, ScythXIII
-## X-Discord: https://discord.gg/DDVqkd6
+## X-Discord: https://discord.gg/7MTWRgDzz8
 ## X-Website: https://github.com/SFX-WoW/Masque_Squarish
 
 ## X-Curse-Project-ID: 714798
