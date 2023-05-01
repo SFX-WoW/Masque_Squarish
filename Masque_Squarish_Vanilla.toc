@@ -1,9 +1,11 @@
 ## Interface: 11403
 
 ## Author: StormFX
-## Dependencies: Masque
 ## Title: Masque: Squarish
 ## Version: @project-version@
+
+## Dependencies: Masque
+## IconTexture: Interface\AddOns\Masque_Squarish\Textures\Icon
 
 ## Notes: Squarish skins for Masque.
 ## Notes-deDE: Squarish-Skin für Masque.
