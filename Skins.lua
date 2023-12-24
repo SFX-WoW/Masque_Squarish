@@ -17,7 +17,7 @@
 local MSQ = LibStub and LibStub("Masque", true)
 if not MSQ then return end
 
-local AddOn, Core = ...
+local _, Core = ...
 
 ----------------------------------------
 -- Internal
