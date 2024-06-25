@@ -281,6 +281,10 @@ MSQ:AddSkin("Squarish", {
 		OffsetY = 0,
 		-- SetAllPoints = nil,
 	},
+	SpellAlert = {
+		Width = 27,
+		Height = 27,
+	},
 })
 
 MSQ:AddSkin("Squarish Thin", {
@@ -453,4 +457,8 @@ MSQ:AddSkin("Squarish Thin", {
 		-- SetAllPoints = nil,
 	},
 	ChargeCooldown = "Cooldown",
+	SpellAlert = {
+		Width = 29,
+		Height = 29,
+	},
 })
