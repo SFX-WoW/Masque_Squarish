@@ -303,6 +303,8 @@ MSQ:AddSkin("Squarish", {
 		OffsetY = 0,
 		-- SetAllPoints = nil,
 	},
+	ChargeCooldown = "Cooldown",
+	-- [ SpellAlert ]
 	SpellAlert = {
 		Width = 27,
 		Height = 27,
@@ -499,9 +501,9 @@ MSQ:AddSkin("Squarish Thin", {
 	-- AutoCastShine = Template.AutoCastShine,
 	-- [ Cooldowns ]
 	Cooldown = {
-		-- Texture = nil,
-		-- EdgeTexture = [[Interface\Cooldown\edge]],
-		-- PulseTexture = [[Interface\Cooldown\star4]],
+		Texture = [[Interface\AddOns\Masque\Textures\Square\Mask]],
+		EdgeTexture = [[Interface\AddOns\Masque\Textures\Modern\Edge]],
+		PulseTexture = [[Interface\Cooldown\star4]],
 		Color = {0, 0, 0, 0.7},
 		Width = 34,
 		Height = 34,
