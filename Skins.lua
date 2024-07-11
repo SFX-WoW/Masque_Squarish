@@ -29,7 +29,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 100207
+local API_VERSION = 100208
 
 -- Skin Info
 local Version = "@project-version@"
@@ -443,6 +443,7 @@ MSQ:AddSkin("Squarish Thin", {
 		-- UseColor = nil,
 	},
 	-- AutoCastShine = Template.AutoCastShine,
+	-- [ Cooldowns ]
 	Cooldown = {
 		-- Texture = nil,
 		-- EdgeTexture = [[Interface\Cooldown\edge]],
@@ -457,6 +458,7 @@ MSQ:AddSkin("Squarish Thin", {
 		-- SetAllPoints = nil,
 	},
 	ChargeCooldown = "Cooldown",
+	-- [ SpellAlert ]
 	SpellAlert = {
 		Width = 29,
 		Height = 29,
