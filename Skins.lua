@@ -306,8 +306,16 @@ MSQ:AddSkin("Squarish", {
 	ChargeCooldown = "Cooldown",
 	-- [ SpellAlert ]
 	SpellAlert = {
-		Width = 27,
-		Height = 27,
+		Width = 38,
+		Height = 38,
+		Classic = {
+			Height = 32,
+			Width = 32,
+		},
+		Thin = {
+			Height = 27,
+			Width = 27,
+		},
 	},
 })
 
@@ -502,7 +510,15 @@ MSQ:AddSkin("Squarish Thin", {
 	ChargeCooldown = "Cooldown",
 	-- [ SpellAlert ]
 	SpellAlert = {
-		Width = 29,
-		Height = 29,
+		Width = 40,
+		Height = 40,
+		Classic = {
+			Height = 36,
+			Width = 36,
+		},
+		Thin = {
+			Height = 29,
+			Width = 29,
+		},
 	},
 })
