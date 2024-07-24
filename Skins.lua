@@ -312,6 +312,10 @@ MSQ:AddSkin("Squarish", {
 			Height = 32,
 			Width = 32,
 		},
+		Modern = {
+			Height = 32,
+			Width = 32,
+		},
 		Thin = {
 			Height = 27,
 			Width = 27,
@@ -513,8 +517,12 @@ MSQ:AddSkin("Squarish Thin", {
 		Width = 40,
 		Height = 40,
 		Classic = {
-			Height = 36,
-			Width = 36,
+			Height = 34,
+			Width = 34,
+		},
+		Modern = {
+			Height = 34,
+			Width = 34,
 		},
 		Thin = {
 			Height = 29,
