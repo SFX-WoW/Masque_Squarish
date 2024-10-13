@@ -82,8 +82,6 @@ MSQ:AddSkin("Squarish", {
 		TexCoords = {0.05, 0.95, 0.05, 0.95},
 		-- Color = {1, 1, 1, 1},
 		BlendMode = "BLEND",
-		DrawLayer = "BACKGROUND",
-		DrawLevel = 0,
 		Width = 36,
 		Height = 36,
 		Point = "CENTER",
