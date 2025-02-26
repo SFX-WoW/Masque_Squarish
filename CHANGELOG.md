@@ -1,9 +1,9 @@
-## 11.0.2
+## 11.1.0
 
 ### Release Notes
 
-- Added support for **The War Within** `11.0.5`. (#32)
-- Added support for **Cataclysm Classic** `4.4.1`.. (#32)
-- Updated the `Interface` version for **Classic Era** to `11504`. (#32)
+- Updated the `Interface` version for **The War Within** to `110100`. (#33)
+- Updated the `Interface` version for **Cataclysm Classic** to `40402`. (#33)
+- Updated the `Interface` version for **Classic Era** to `11506`. (#33)
 
 [Release History](https://github.com/SFX-WoW/Masque_Squarish/wiki/History)
