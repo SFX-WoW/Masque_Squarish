@@ -4,6 +4,7 @@
 ## Title: Masque: Squarish
 ## Version: @project-version@
 
+## Category: Masque
 ## Dependencies: Masque
 ## IconTexture: Interface\AddOns\Masque_Squarish\Textures\Icon
 
