@@ -29,7 +29,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 110107
+local API_VERSION = 110207
 
 -- Skin Info
 local Version = "@project-version@"
@@ -46,7 +46,7 @@ local Websites = {
 
 MSQ:AddSkin("Squarish", {
 	API_VERSION = API_VERSION,
-	Shape = "Square",
+	Shape = "Modern",
 	Template = "Blizzard Classic",
 
 	-- Info
@@ -302,10 +302,14 @@ MSQ:AddSkin("Squarish", {
 		-- SetAllPoints = nil,
 	},
 	ChargeCooldown = "Cooldown",
-	-- [ SpellAlert ]
+	-- [ SpellAlerts ]
 	SpellAlert = {
 		Width = 38,
 		Height = 38,
+		AltGlow = {
+			Height = 47,
+			Width = 47,
+		},
 		Classic = {
 			Height = 32,
 			Width = 32,
@@ -314,10 +318,14 @@ MSQ:AddSkin("Squarish", {
 			Height = 32,
 			Width = 32,
 		},
-		Thin = {
-			Height = 27,
-			Width = 27,
+		["Modern-Lite"] = {
+			Height = 33,
+			Width = 33,
 		},
+	},
+	AssistedCombatHighlight = {
+		Width = 47,
+		Height = 47,
 	},
 })
 
@@ -510,10 +518,14 @@ MSQ:AddSkin("Squarish Thin", {
 		-- SetAllPoints = nil,
 	},
 	ChargeCooldown = "Cooldown",
-	-- [ SpellAlert ]
+	-- [ SpellAlerts ]
 	SpellAlert = {
 		Width = 40,
 		Height = 40,
+		AltGlow = {
+			Height = 49,
+			Width = 49,
+		},
 		Classic = {
 			Height = 34,
 			Width = 34,
@@ -522,9 +534,13 @@ MSQ:AddSkin("Squarish Thin", {
 			Height = 34,
 			Width = 34,
 		},
-		Thin = {
-			Height = 29,
-			Width = 29,
+		["Modern-Lite"] = {
+			Height = 35,
+			Width = 35,
 		},
+	},
+	AssistedCombatHighlight = {
+		Width = 49,
+		Height = 49,
 	},
 })
