@@ -58,6 +58,7 @@ Masque:AddSkin("Squarish", {
 	-- [ Info ]
 	Authors = {"StormFX", "|cff999999Phanx|r", "|cff999999Moonwitch|r", "|cff999999ScythXIII|r"},
 	Description = L["A port of the original SimpleSquare skin for cyCircled."],
+	Discord = "https://discord.gg/7MTWRgDzz8",
 	Version = Version,
 	Websites = Websites,
 
@@ -348,6 +349,7 @@ Masque:AddSkin("Squarish Thin", {
 	-- [ Info ]
 	Authors = {"StormFX", "|cff999999Phanx|r"},
 	Description = L["A thinner version of Squarish."],
+	-- Discord = Template.Discord,
 	-- Version = Template.Version,
 	-- Websites = Template.Websites,
 
