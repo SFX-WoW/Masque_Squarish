@@ -11,15 +11,10 @@
 local _, Core = ...
 
 ----------------------------------------
--- WoW API
+-- Locals
 ---
 
 local Locale = GetLocale()
-
-----------------------------------------
--- Local
----
-
 local L = {}
 
 ----------------------------------------
@@ -38,9 +33,8 @@ Core.Locale = setmetatable(L, {
 ---
 
 if Locale == "enGB" or Locale == "enUS" then
-	-- enUS/enGB for Reference
-	--L["A port of the original SimpleSquare skin for cyCircled."] = "A port of the original SimpleSquare skin for cyCircled."
-	--L["A thinner version of Squarish."] = "A thinner version of Squarish."
+	L["A port of the original SimpleSquare skin for cyCircled."] = "A port of the original SimpleSquare skin for cyCircled."
+	L["A thinner version of Squarish."] = "A thinner version of Squarish."
 	return
 --elseif Locale == "deDE" then
 --elseif Locale == "esES" or Locale == "esMX" then
@@ -48,7 +42,9 @@ if Locale == "enGB" or Locale == "enUS" then
 --elseif Locale == "itIT" then
 --elseif Locale == "koKR" then
 --elseif Locale == "ptBR" then
---elseif Locale == "ruRU" then
+elseif Locale == "ruRU" then
+	L["A port of the original SimpleSquare skin for cyCircled."] = "Порт оригинального скина SimpleSquare для cyCircled."
+	L["A thinner version of Squarish."] = "Более тонкая версия Squarish."
 --elseif Locale == "zhCN" then
 --elseif Locale == "zhTW" then
 end
