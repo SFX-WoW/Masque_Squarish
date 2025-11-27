@@ -14,8 +14,8 @@
 	- Original "cyCircled: SimpleSquare" skin by ScythXIII.
 ]]
 
-local MSQ = LibStub and LibStub("Masque", true)
-if not MSQ then return end
+local Masque = LibStub and LibStub("Masque", true)
+if not Masque then return end
 
 local _, Core = ...
 
