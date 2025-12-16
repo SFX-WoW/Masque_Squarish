@@ -46,5 +46,7 @@ elseif Locale == "ruRU" then
 	L["A port of the original SimpleSquare skin for cyCircled."] = "Порт оригинального скина SimpleSquare для cyCircled."
 	L["A thinner version of Squarish."] = "Более тонкая версия Squarish."
 --elseif Locale == "zhCN" then
---elseif Locale == "zhTW" then
+elseif Locale == "zhTW" then
+	L["A port of the original SimpleSquare skin for cyCircled."] = "這是 cyCircled 原始 SimpleSquare 外觀的移植版。"
+	L["A thinner version of Squarish."] = "這是 Squarish 的較薄版本。"
 end
