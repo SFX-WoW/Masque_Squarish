@@ -41,7 +41,9 @@ if Locale == "enGB" or Locale == "enUS" then
 --elseif Locale == "frFR" then
 --elseif Locale == "itIT" then
 --elseif Locale == "koKR" then
---elseif Locale == "ptBR" then
+elseif Locale == "ptBR" then
+	L["A port of the original SimpleSquare skin for cyCircled."] = "Uma adaptação da aparência original SimpleSquare para o cyCircled."
+	L["A thinner version of Squarish."] = "Uma versão mais fina da Squarish."
 elseif Locale == "ruRU" then
 	L["A port of the original SimpleSquare skin for cyCircled."] = "Порт оригинального скина SimpleSquare для cyCircled."
 	L["A thinner version of Squarish."] = "Более тонкая версия Squarish."
