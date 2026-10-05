@@ -1,4 +1,4 @@
-## 12.1.1- Alpha
+## 12.1.1
 
 ### Release Notes
 
