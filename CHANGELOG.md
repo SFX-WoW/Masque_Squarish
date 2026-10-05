@@ -1,8 +1,9 @@
-## 12.1.1-Alpha
+## 12.1.1
 
 ### Release Notes
 
-- Updated the `Interface` versions:
+- Enabled automated localization.
+- Updated the `Interface` version:
   - **Forever**: `16001`
 
 [Release History](https://github.com/SFX-WoW/Masque_Squarish/wiki/History)
