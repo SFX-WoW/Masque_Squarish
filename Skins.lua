@@ -29,7 +29,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 120000
+local API_VERSION = 120100
 
 -- Skin Info
 local Version = "@project-version@"
@@ -45,8 +45,7 @@ local PATH_BASE = [[Interface\AddOns\Masque_Squarish\Textures\Base\]]
 local PATH_THIN = [[Interface\AddOns\Masque_Squarish\Textures\Thin\]]
 local PATH_MODERN = [[Interface\AddOns\Masque\Textures\Modern\]]
 
--- Texture Strings
-local AUTOCAST_MASK = [[Interface\AddOns\Masque\Textures\Square\AutoCast-Mask]]
+-- Texture Paths
 local BASE_BORDER = PATH_BASE.."Border"
 local THIN_BORDER = PATH_THIN.."Border"
 local COOLDOWN_EDGE = PATH_MODERN.."Edge"
@@ -150,14 +149,20 @@ Masque:AddSkin("Squarish", {
 		OffsetX = -3,
 		OffsetY = -3,
 	},
-	-- [ AutoCastShine (Classic) ]
-	-- AutoCastable = Template.AutoCastable,
-	-- AutoCastShine = Template.AutoCastShine,
-	-- [ AutoCastOverlay (Retail) ]
-	-- AutoCast_Frame = Template.AutoCast_Frame,
+	-- [ AutoCastOverlay ]
+	AutoCast_Frame = {
+		Width = 37,
+		Height = 37,
+		Classic = {
+			Width = 28,
+			Height = 28,
+			OffsetX = 1,
+			OffsetY = -0.5,
+		},
+	},
 	-- AutoCast_Shine = Template.AutoCast_Shine,
 	AutoCast_Mask = {
-		Texture = AUTOCAST_MASK,
+		Texture = [[Interface\AddOns\Masque\Textures\Square\AutoCast-Mask]],
 		Width = 30,
 		Height = 30,
 	},
@@ -166,8 +171,15 @@ Masque:AddSkin("Squarish", {
 		Width = 40,
 		Height = 40,
 		OffsetY = -0.5,
+		Classic = {
+			Atlas = "UI-HUD-ActionBar-PetAutoCast-Corners",
+			Width = 58,
+			Height = 58,
+			OffsetX = -0.5,
+			OffsetY = 0.5,
+		},
 	},
-	-- [ Cooldowns ]
+	-- [ Cooldown ]
 	Cooldown = {
 		Texture = COOLDOWN_MASK,
 		EdgeTexture = COOLDOWN_EDGE,
@@ -178,7 +190,7 @@ Masque:AddSkin("Squarish", {
 	},
 	CooldownLoC = "Cooldown",
 	ChargeCooldown = "Cooldown",
-	-- [ SpellAlerts ]
+	-- [ SpellAlert ]
 	SpellAlert = {
 		Width = 38,
 		Height = 38,
@@ -284,19 +296,36 @@ Masque:AddSkin("Squarish Thin", {
 		OffsetX = -1,
 		OffsetY = 1,
 	},
-	-- [ AutoCastShine (Classic) ]
-	-- AutoCastable = Template.AutoCastable,
-	-- AutoCastShine = Template.AutoCastShine,
-	-- [ AutoCastOverlay (Retail) ]
-	-- AutoCast_Frame = Template.AutoCast_Frame,
+	-- [ AutoCastOverlay ]
+	AutoCast_Frame = {
+		Width = 37,
+		Height = 37,
+		Classic = {
+			Width = 30,
+			Height = 30,
+			OffsetX = 1,
+			OffsetY = -0.5,
+		},
+	},
 	-- AutoCast_Shine = Template.AutoCast_Shine,
 	AutoCast_Mask = {
-		Texture = AUTOCAST_MASK,
+		Texture = [[Interface\AddOns\Masque\Textures\Square\AutoCast-Mask]],
 		Width = 32,
 		Height = 32,
 	},
-	-- AutoCast_Corners = Template.AutoCast_Corners,
-	-- [ Cooldowns ]
+	AutoCast_Corners = {
+		Atlas = "UI-HUD-ActionBar-PetAutoCast-Corners",
+		Width = 40,
+		Height = 40,
+		OffsetY = -0.5,
+		Classic = {
+			Atlas = "UI-HUD-ActionBar-PetAutoCast-Corners",
+			Width = 64,
+			Height = 64,
+			OffsetX = -0.5,
+		},
+	},
+	-- [ Cooldown ]
 	Cooldown = {
 		Texture = COOLDOWN_MASK,
 		EdgeTexture = COOLDOWN_EDGE,
@@ -306,7 +335,7 @@ Masque:AddSkin("Squarish Thin", {
 	},
 	CooldownLoC = "Cooldown",
 	ChargeCooldown = "Cooldown",
-	-- [ SpellAlerts ]
+	-- [ SpellAlert ]
 	SpellAlert = {
 		Width = 40,
 		Height = 40,
